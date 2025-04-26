@@ -3,11 +3,10 @@
 
 ---
 
-<!-- TROPHIES -->
+<!-- TROPHIES (Single Line, Clean Look) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&row=2&column=3&no-frame=true&no-bg=true&title=MultiLanguage,Commit,Repositories,Experience,Joined2020" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Joined2020,Commit,Repositories,Experience&margin-w=10" alt="Trophies" />
 </p>
-
 ---
 
 - 🔭 **Currently Building:**  
