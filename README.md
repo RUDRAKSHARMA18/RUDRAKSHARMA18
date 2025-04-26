@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RUDRA K SHARMA</h1>
-<h3 align="center">I passionate COMPUTER SCIENCE EXPERT</h3>
+<h3 align="center">A passionate COMPUTER SCIENCE EXPERT</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18" alt="rudraksharma18" /></a> </p>
 
