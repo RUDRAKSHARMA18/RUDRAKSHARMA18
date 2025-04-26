@@ -3,9 +3,9 @@
 
 ---
 
+<!-- TROPHIES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudraksharma18&label=Profile%20views&color=0e75b6&style=flat" alt="rudraksharma18" />
-  <img src="https://img.shields.io/github/followers/rudraksharma18?label=Follow&style=social" alt="rudraksharma18" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&row=2&column=3&no-frame=true&no-bg=true&title=MultiLanguage,Commit,Repositories,Experience,Joined2020" alt="GitHub Trophies" />
 </p>
 
 ---
