@@ -5,7 +5,7 @@
 
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Joined2020,Commit,Repositories,Experience&margin-w=30" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Joined2020,Commit,Repositories,Experience&margin-w=20" alt="Trophies" />
 </p>
 
 ---
