@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18" alt="rudraksharma18" /></a> </p>
 
-- 🔭 Currently Building: **My own Next-Generation Cryptocurrency. A Separate, Independent Blockchain Infrastructure**
+- 🔭 Currently Building: **My own Next-Generation Cryptocurrency.
+- A Separate, Independent Blockchain Infrastructure**
 
 - 🤝 Open for Collaboration In: **Blockchain Infrastructure & Cryptocurrency Development Cybersecurity Solutions & Penetration Testing Secure Smart Contract Deployment and Auditing**
 
