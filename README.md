@@ -8,7 +8,9 @@ Architecting cryptographically secure, economically sound and globally scalable 
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark&column=6" alt="GitHub Trophies" />
+</a>
 
 
 ---
