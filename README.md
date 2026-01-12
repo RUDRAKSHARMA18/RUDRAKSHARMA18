@@ -92,8 +92,17 @@ PyTorch, cryptographic engines, low-level system programming
 ## 🌐 Connect  
 
 📧 **rudra_18@outlook.com**  
-🐦 **twitter.com/rudraksharma18**  
-📷 **instagram.com/rudraksharma18**
+<p align="center">
+<a href="https://linkedin.com/in/rudraksharma18" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/rudraksharma18" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
+</a>
+<a href="https://instagram.com/rudraksharma18" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+</a>
+</p>
 
 ---
 
