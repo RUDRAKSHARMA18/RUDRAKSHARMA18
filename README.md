@@ -4,10 +4,9 @@ Blockchain Developer | Smart Contract Architect | Cryptocurrency Design & Tokeno
 </h3>
 
 <p align="center">
-Engineering cryptographically secure, scalable and trustless decentralized systems.
+Architecting cryptographically secure, economically sound and globally scalable decentralized systems.
 </p>
 
-<!-- TROPHIES -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Joined2020,Commit,Repositories,Experience&margin-w=4" />
 </p>
@@ -16,47 +15,48 @@ Engineering cryptographically secure, scalable and trustless decentralized syste
 
 ## 🚀 About Me  
 
-I am a Computer Science engineer specializing in **Cybersecurity**, working at the intersection of **blockchain protocol engineering, cryptography, and Web3 infrastructure**.
+I am a Computer Science engineer specializing in **Cybersecurity**, focused on **blockchain protocol engineering, applied cryptography, distributed systems, and Web3 infrastructure**.
 
-I design and build **cryptocurrency networks, smart contract platforms, and enterprise-grade private blockchains**. I have **industry experience delivering private blockchain and cryptocurrency solutions for companies**, including **tokenized asset systems, internal ledgers, and secure transaction platforms**.
+I design and build **cryptocurrency networks, token economies, smart contract platforms, and private blockchain systems**. I have **industry experience developing secure blockchain and cryptocurrency solutions for companies**, including **tokenized asset systems, internal financial ledgers, audit-grade transaction platforms, and decentralized identity frameworks**.
 
-My work spans both **public blockchains and permissioned enterprise networks (Hyperledger Fabric)**, enabling **tamper-proof, auditable, and access-controlled distributed systems**.
+I work across **public blockchains and enterprise-grade private networks**, including **custom blockchain stacks and Hyperledger Fabric**, enabling **tamper-proof, permissioned, and regulation-ready distributed systems**.
 
-I also specialize in **Zero-Knowledge Proofs (ZKPs)**, encryption, hashing, and digital signature schemes to build **privacy-preserving, regulation-ready blockchain systems**.
-
----
-
-## 🔭 Currently Building  
-
-- **A next-generation cryptocurrency**
-- **A fully independent blockchain protocol**
-- **ZKP-enabled transaction and verification layers**
-- **Enterprise-grade private blockchain networks**
+I also develop **privacy-preserving cryptographic protocols using Zero-Knowledge Proofs (ZKPs)**, Merkle trees, digital signatures, encryption schemes, and hashing to build **trustless systems where verification does not require data exposure**.
 
 ---
 
-## 🌱 Actively Working With  
+## 🔥 What I Build  
 
-- Blockchain protocols, consensus mechanisms, and P2P networks  
-- Cryptocurrency tokenomics, governance, and incentive design  
-- Smart contracts (Solidity, Rust)  
-- Blockchain security, auditing, and exploit prevention  
-- Web3 infrastructure and decentralized identity (DID)  
-- Hyperledger Fabric and private ledger deployments  
-- Zero-Knowledge Proofs and cryptographic verification  
+- Custom **Layer-1 and Layer-2 blockchain protocols**  
+- **Cryptocurrency systems** with tokenomics, fee markets, staking and governance  
+- **Smart contract frameworks** and decentralized applications  
+- **ZKP-based verification and privacy layers**  
+- **Enterprise blockchain solutions** using Hyperledger Fabric  
+- **Secure transaction, wallet, and identity infrastructure**
 
 ---
 
-## 🛡️ Core Engineering Domains  
+## 🧬 Core Blockchain & Crypto Expertise  
 
-- **Blockchain Engineering & Security**  
-- **Cryptocurrency Protocols & Tokenomics**  
-- **Smart Contract Auditing & Hardening**  
-- **Zero-Knowledge Proof Systems**  
-- **Cryptography & Key Management**  
-- **Web3 Infrastructure & Trustless Systems**  
-- **Threat Modeling & Penetration Testing**  
-- **Secure DevOps & Distributed Architecture**
+- **Blockchain Protocol Design (Consensus, P2P, State Machines)**  
+- **Cryptocurrency Economics (Tokenomics, Incentives, Governance)**  
+- **Smart Contract Engineering & Auditing (Solidity, Rust)**  
+- **Zero-Knowledge Proof Systems (ZK-SNARKs, zk-rollups)**  
+- **Cryptography (Hashing, Signatures, Encryption, Merkle Trees)**  
+- **Web3 Infrastructure (Nodes, Validators, APIs, Indexers)**  
+- **Private & Permissioned Blockchains (Hyperledger Fabric)**  
+- **Threat Modeling & Adversarial Security**
+
+---
+
+## 🛡️ Security & Systems Engineering  
+
+- Blockchain attack surface analysis  
+- Smart contract exploit prevention  
+- Cryptographic protocol hardening  
+- Key management and wallet security  
+- Red-team / blue-team threat modeling  
+- Secure DevOps and infrastructure automation  
 
 ---
 
@@ -66,27 +66,26 @@ I also specialize in **Zero-Knowledge Proofs (ZKPs)**, encryption, hashing, and 
 C, C++, Python, Java, Rust, Ruby, Solidity, JavaScript, Swift  
 
 **Blockchain & Crypto:**  
-Ethereum, EVM, Hyperledger Fabric, Custom Blockchain Frameworks, Tokenomics, ZKPs  
+Ethereum, EVM, Hyperledger Fabric, Custom Blockchain Engines, ZKP Frameworks, Tokenomics  
 
-**Security & Infrastructure:**  
-Linux, Docker, Git, Secure DevOps, Cloud Security  
+**Infrastructure & Security:**  
+Linux, Docker, Git, Cloud Security, Secure DevOps  
 
-**Web & Data:**  
-Node.js, React, MongoDB, MySQL, SQLite, APIs  
+**Web & Backend:**  
+Node.js, React, MongoDB, MySQL, SQLite, REST & Web3 APIs  
 
 **AI & Systems:**  
-PyTorch, Low-level systems programming, cryptographic engines  
+PyTorch, cryptographic engines, low-level system programming  
 
 ---
 
 ## 🤝 Open for Collaboration  
 
-- Blockchain infrastructure  
-- Cryptocurrency protocol engineering  
-- Secure smart contract deployment  
-- Web3 security and audits  
-- Enterprise blockchain and private ledger systems  
-- Cryptographic and ZKP-based systems  
+- Blockchain protocol engineering  
+- Cryptocurrency system design  
+- Web3 and smart contract security  
+- ZKP and cryptographic applications  
+- Enterprise and private blockchain deployments  
 
 ---
 
@@ -98,6 +97,6 @@ PyTorch, Low-level systems programming, cryptographic engines
 
 ---
 
-> 🧠 Never Stop Learning  
-> 🚀 Never Stop Building  
-> 🛡️ Never Stop Securing
+> 🧠 Build the protocol  
+> 🔐 Secure the system  
+> 🌍 Power the decentralized economy
