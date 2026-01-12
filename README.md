@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Rudra Kumar Sharma</h1> 👋 
+<h1 align="center">👋 Hello World, I'm Rudra Kumar Sharma</h1>
 <h3 align="center">
 Blockchain Developer | Smart Contract Architect | Cryptocurrency Design & Tokenomics | Cybersecurity Engineering | Web3 Infrastructure
 </h3>
