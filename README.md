@@ -7,7 +7,9 @@ Blockchain Developer | Smart Contract Architect | Cryptocurrency Design & Tokeno
 Architecting cryptographically secure, economically sound and globally scalable decentralized systems.
 </p>
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
