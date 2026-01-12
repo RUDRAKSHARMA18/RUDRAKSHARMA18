@@ -92,10 +92,10 @@ PyTorch, cryptographic engines, low-level system programming
 ## 🌐 Connect  
 
 <p align="left">
-📧 <a href="mailto:rudra_18@outlook.com">rudra_18@outlook.com</a><br>
-🔗 <a href="https://linkedin.com/in/rudraksharma18" target="_blank">linkedin.com/in/rudraksharma18</a><br>
+✉️ <a href="mailto:rudra_18@outlook.com">rudra_18@outlook.com</a><br>
 🐦 <a href="https://twitter.com/rudraksharma18" target="_blank">@rudraksharma18</a><br>
-📸 <a href="https://instagram.com/rudraksharma18" target="_blank">@rudraksharma18</a>
+📷 <a href="https://instagram.com/rudraksharma18" target="_blank">@rudraksharma18</a><br>
+🔗 <a href="https://linkedin.com/in/rudraksharma18" target="_blank">linkedin.com/in/rudraksharma18</a>
 </p>
 
 
