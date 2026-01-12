@@ -9,12 +9,13 @@ Architecting cryptographically secure, economically sound and globally scalable 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudraksharma18&show_icons=true&theme=onedark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraksharma18&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksharma18&theme=onedark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rudraksharma18&theme=dark" />
 </p>
+
 
 
 ---
