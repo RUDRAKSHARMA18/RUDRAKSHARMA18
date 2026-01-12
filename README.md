@@ -9,12 +9,12 @@ Architecting cryptographically secure, economically sound and globally scalable 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudraksharma18&show_icons=true&theme=dark" />
+  <img src="https://img.shields.io/github/stars/rudraksharma18?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rudraksharma18?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/rudraksharma18?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/rudraksharma18?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudraksharma18&theme=dark" />
-</p>
 
 
 
