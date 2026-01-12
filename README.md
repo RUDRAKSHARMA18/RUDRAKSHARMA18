@@ -8,7 +8,7 @@ Architecting cryptographically secure, economically sound and globally scalable 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&column=6" />
 </p>
 
 ---
