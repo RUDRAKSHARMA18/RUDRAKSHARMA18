@@ -9,11 +9,13 @@ Architecting cryptographically secure, economically sound and globally scalable 
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/rudraksharma18?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rudraksharma18?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/rudraksharma18?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/rudraksharma18?style=for-the-badge" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rudraksharma18&theme=onedark&column=6" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=rudraksharma18&theme=onedark&column=6" />
+</p>
+
 
 
 
