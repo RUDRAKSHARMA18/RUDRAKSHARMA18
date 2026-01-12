@@ -1,83 +1,103 @@
-<h1 align="center">👋 Hello World, I'm RUDRA KUMAR SHARMA</h1>
-<h3 align="center">🚀 Visionary Computer Scientist | Blockchain Developer | Cybersecurity Enthusiast | Cryptocurrency Architect</h3>
-
----
-
-<!-- TROPHIES -->
+<h1 align="center">👋 Hello, I'm Rudra Kumar Sharma</h1>
+<h3 align="center">
+Blockchain Developer | Smart Contract Architect | Cryptocurrency Design & Tokenomics | Cybersecurity Engineering | Web3 Infrastructure
+</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Joined2020,Commit,Repositories,Experience&margin-w=2" alt="Trophies" />
+Engineering cryptographically secure, scalable and trustless decentralized systems.
+</p>
+
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=algolia&no-frame=true&no-bg=true&title=MultiLanguage,Joined2020,Commit,Repositories,Experience&margin-w=4" />
 </p>
 
 ---
 
-- 🔭 **Currently Building:**  
-  **My own Next-Generation Cryptocurrency.**  
-  **A Separate, Independent Blockchain Infrastructure.**
+## 🚀 About Me  
 
-- 🤝 **Open for Collaboration In:**  
-  **Blockchain Infrastructure, Cryptocurrency Development, Secure Smart Contract Deployment, Penetration Testing, Cybersecurity Solutions.**
+I am a Computer Science engineer specializing in **Cybersecurity**, working at the intersection of **blockchain protocol engineering, cryptography, and Web3 infrastructure**.
 
-- 🌱 **Currently Learning:**  
-  **Blockchain Development (Protocols, Smart Contracts, DApps), Applied Cryptocurrency (DeFi, Tokenomics), Blockchain Security (Auditing, Threat Modeling), Advanced Cybersecurity (Cloud Security, Ethical Hacking).**
+I design and build **cryptocurrency networks, smart contract platforms, and enterprise-grade private blockchains**. I have **industry experience delivering private blockchain and cryptocurrency solutions for companies**, including **tokenized asset systems, internal ledgers, and secure transaction platforms**.
 
-- 🛡️ **Expanding Expertise Into:**  
-  **Blockchain Security Architecture, Web3 Security, Threat Intelligence, Decentralized Identity (DID), Zero Knowledge Proofs (ZKPs).**
+My work spans both **public blockchains and permissioned enterprise networks (Hyperledger Fabric)**, enabling **tamper-proof, auditable, and access-controlled distributed systems**.
 
-- 📫 **Reach Out To Me:**  
-  📧 **RUDRA_18@OUTLOOK.COM**
+I also specialize in **Zero-Knowledge Proofs (ZKPs)**, encryption, hashing, and digital signature schemes to build **privacy-preserving, regulation-ready blockchain systems**.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rudraksharma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudraksharma18" height="30" width="40" /></a>
-<a href="https://instagram.com/rudraksharma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudraksharma18" height="30" width="40" /></a>
-</p>
+## 🔭 Currently Building  
+
+- **A next-generation cryptocurrency**
+- **A fully independent blockchain protocol**
+- **ZKP-enabled transaction and verification layers**
+- **Enterprise-grade private blockchain networks**
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gtk.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></a>
-<a href="https://www.haskell.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-</p>
+## 🌱 Actively Working With  
+
+- Blockchain protocols, consensus mechanisms, and P2P networks  
+- Cryptocurrency tokenomics, governance, and incentive design  
+- Smart contracts (Solidity, Rust)  
+- Blockchain security, auditing, and exploit prevention  
+- Web3 infrastructure and decentralized identity (DID)  
+- Hyperledger Fabric and private ledger deployments  
+- Zero-Knowledge Proofs and cryptographic verification  
 
 ---
 
-<h3 align="left">💻 Specialized Skill Domains:</h3>
+## 🛡️ Core Engineering Domains  
 
-- 🛡️ Blockchain Engineering and Security  
-- 🧠 Cryptocurrency Systems and Tokenomics  
-- 🔐 Smart Contract Auditing (Solidity, Rust)  
-- 🚀 Penetration Testing & Ethical Hacking  
-- ☁️ Cloud and Web Security (AWS, GCP, Azure)  
-- 🔒 Red Team/Blue Team Operations  
-- 🛠️ Secure DevOps and Infrastructure Automation  
-- 📡 Threat Intelligence, Zero Trust Architecture
+- **Blockchain Engineering & Security**  
+- **Cryptocurrency Protocols & Tokenomics**  
+- **Smart Contract Auditing & Hardening**  
+- **Zero-Knowledge Proof Systems**  
+- **Cryptography & Key Management**  
+- **Web3 Infrastructure & Trustless Systems**  
+- **Threat Modeling & Penetration Testing**  
+- **Secure DevOps & Distributed Architecture**
 
 ---
 
-# 🧠 Never Stop Learning | 🚀 Never Stop Building | 🛡️ Never Stop Securing
+## 💻 Tech Stack  
+
+**Languages:**  
+C, C++, Python, Java, Rust, Ruby, Solidity, JavaScript, Swift  
+
+**Blockchain & Crypto:**  
+Ethereum, EVM, Hyperledger Fabric, Custom Blockchain Frameworks, Tokenomics, ZKPs  
+
+**Security & Infrastructure:**  
+Linux, Docker, Git, Secure DevOps, Cloud Security  
+
+**Web & Data:**  
+Node.js, React, MongoDB, MySQL, SQLite, APIs  
+
+**AI & Systems:**  
+PyTorch, Low-level systems programming, cryptographic engines  
+
+---
+
+## 🤝 Open for Collaboration  
+
+- Blockchain infrastructure  
+- Cryptocurrency protocol engineering  
+- Secure smart contract deployment  
+- Web3 security and audits  
+- Enterprise blockchain and private ledger systems  
+- Cryptographic and ZKP-based systems  
+
+---
+
+## 🌐 Connect  
+
+📧 **rudra_18@outlook.com**  
+🐦 **twitter.com/rudraksharma18**  
+📷 **instagram.com/rudraksharma18**
+
+---
+
+> 🧠 Never Stop Learning  
+> 🚀 Never Stop Building  
+> 🛡️ Never Stop Securing
