@@ -2,30 +2,33 @@
 bytes32 genesis = keccak256("Hello World");
 ```
 
-Building secure, scalable, and decentralized systems.
+Building decentralized systems, digital economies, and secure blockchain infrastructure.
 
 ### About
 
-Computer Science student specializing in Cybersecurity with a focus on blockchain engineering, applied cryptography, distributed systems, and Web3 infrastructure.
+Computer Science student specializing in Cybersecurity with a focus on blockchain engineering, cryptocurrency systems, distributed networks, and Web3 infrastructure.
 
-Interested in designing systems that combine security, cryptographic trust, and real-world usability.
+I build blockchain applications, smart contracts, tokenized ecosystems, and developer tooling. My interests span cryptocurrency design, tokenomics, consensus mechanisms, blockchain security, and the infrastructure that powers decentralized networks.
 
-### Current Focus
+Alongside blockchain development, I explore the security and systems engineering challenges behind building resilient, scalable, and trust-minimized platforms.
+
+### Interests
 
 * Blockchain Protocol Engineering
-* Smart Contract Development & Security
-* Cryptocurrency Design & Tokenomics
-* Zero-Knowledge Proofs (ZKPs)
+* Cryptocurrency Systems & Tokenomics
+* Smart Contract Development
+* Web3 Infrastructure
+* Blockchain Security
 * Distributed Systems
-* Cryptography & Applied Security
+* Applied Cryptography
 
 ### Building
 
-* Custom blockchain networks
-* Smart contracts and decentralized applications
-* Cryptocurrency ecosystems and token economies
-* Security-focused Web3 infrastructure
-* Open-source tools and developer utilities
+* Blockchain applications and infrastructure
+* Smart contracts and decentralized systems
+* Cryptocurrency ecosystems and governance models
+* Security-focused Web3 tools
+* Open-source projects
 
 ### Tech Stack
 
@@ -33,26 +36,40 @@ Interested in designing systems that combine security, cryptographic trust, and 
 
 `C` `C++` `Python` `Java` `Rust` `Ruby` `Solidity` `JavaScript`
 
-**Blockchain & Security**
+**Blockchain & Web3**
 
-`Ethereum` `EVM` `Hyperledger Fabric` `ZK Proofs`
-`Cryptography` `Smart Contracts` `Tokenomics`
-`Blockchain Security`
+`Ethereum`
+`EVM`
+`Hyperledger Fabric`
+`Smart Contracts`
+`Tokenomics`
+`Cryptocurrency Systems`
 
-**Infrastructure**
+**Infrastructure & Security**
 
-`Linux` `Docker` `Git`
-`Node.js` `MongoDB`
-`MySQL` `SQLite`
+`Linux`
+`Docker`
+`Git`
+`Cloud Security`
+`Secure DevOps`
 
-### Exploring
+**Backend & Databases**
 
-* Advanced cryptographic protocols
-* Consensus mechanisms
-* Secure protocol design
-* Distributed infrastructure at scale
+`Node.js`
+`React`
+`MongoDB`
+`MySQL`
+`SQLite`
 
-> Build the protocol. Secure the system. Power the decentralized economy.
+### Currently Exploring
+
+* Blockchain scalability
+* Consensus design
+* Advanced token economies
+* Decentralized infrastructure
+* Secure protocol architecture
+
+> Build the protocol. Secure the network. Power the digital economy.
 
 ```
 ```
