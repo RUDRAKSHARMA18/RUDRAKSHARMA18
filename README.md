@@ -1,18 +1,18 @@
 <div align="center">
 
-# `bytes32 genesis = keccak256("Hello World");`
+# <code>bytes32 genesis = keccak256("Hello World");</code>
 
-*Building decentralized systems, digital economies, and secure blockchain infrastructure.*
+*Building systems where trust is verified, not assumed.*
 
 </div>
 
+---
+
+* 🏗️ Building blockchain applications, smart contracts, and digital economies.
+* ⚡ Interested in protocol design, distributed systems, and incentive mechanisms.
+* 🔐 Exploring security, privacy, and adversarial thinking in decentralized networks.
+* 📚 Learning how large-scale systems achieve reliability, consensus, and resilience.
+
 <br>
 
-* 🔗 Building blockchain applications, smart contracts, and cryptocurrency ecosystems.
-* ⚙️ Interested in protocol design, tokenomics, distributed systems, and blockchain security.
-* 🛠️ Working with Ethereum, Solidity, Hyperledger Fabric, Rust, and Web3 infrastructure.
-* 📚 Exploring consensus mechanisms, blockchain scalability, and secure protocol design.
-
-<br>
-
-> 🧠 **Current Focus:** Blockchain • Cryptocurrency • Web3 • Cybersecurity
+> 🧠 Current Focus: Protocols • Tokenomics • Infrastructure • Security
