@@ -12,7 +12,7 @@ Architecting cryptographically secure, economically sound and globally scalable 
   <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark&column=6&margin-w=15&margin-h=15" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rudraksharma18)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudraksharma18&show_icons=true&theme=tokyonight" />
