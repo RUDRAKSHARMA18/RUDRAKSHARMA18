@@ -9,15 +9,39 @@ Architecting cryptographically secure, economically sound and globally scalable 
 
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rudraksharma18&theme=onedark&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark&column=6&margin-w=15&margin-h=15" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudraksharma18&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=rudraksharma18&theme=onedark&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudraksharma18&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudraksharma18&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksharma18&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rudraksharma18&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksharma18&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rudraksharma18&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rudraksharma18&theme=onedark&column=4&margin-w=15" />
+</p>
 
 
 ---
