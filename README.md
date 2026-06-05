@@ -1,18 +1,24 @@
+<div align="center">
+
 ```solidity
 bytes32 genesis = keccak256("Hello World");
 ```
 
-Building decentralized systems, digital economies, and secure blockchain infrastructure.
+<h3>Building Decentralized Systems, Digital Economies & Secure Blockchain Infrastructure</h3>
 
-### About
+</div>
 
-Computer Science student specializing in Cybersecurity with a focus on blockchain engineering, cryptocurrency systems, distributed networks, and Web3 infrastructure.
+<br>
 
-I build blockchain applications, smart contracts, tokenized ecosystems, and developer tooling. My interests span cryptocurrency design, tokenomics, consensus mechanisms, blockchain security, and the infrastructure that powers decentralized networks.
+## 🚀 About
 
-Alongside blockchain development, I explore the security and systems engineering challenges behind building resilient, scalable, and trust-minimized platforms.
+Computer Science student specializing in **Cybersecurity** with a focus on **Blockchain Engineering**, **Cryptocurrency Systems**, and **Web3 Infrastructure**.
 
-### Interests
+I build blockchain applications, smart contracts, cryptocurrency ecosystems, and developer tooling, with a strong interest in tokenomics, distributed systems, and blockchain security.
+
+---
+
+## 🧠 Interests
 
 * Blockchain Protocol Engineering
 * Cryptocurrency Systems & Tokenomics
@@ -20,56 +26,58 @@ Alongside blockchain development, I explore the security and systems engineering
 * Web3 Infrastructure
 * Blockchain Security
 * Distributed Systems
-* Applied Cryptography
 
-### Building
+---
 
-* Blockchain applications and infrastructure
-* Smart contracts and decentralized systems
-* Cryptocurrency ecosystems and governance models
-* Security-focused Web3 tools
-* Open-source projects
+## ⚙️ Tech Stack
 
-### Tech Stack
+### Languages
 
-**Languages**
+<p>
+  <code>C</code>
+  <code>C++</code>
+  <code>Python</code>
+  <code>Java</code>
+  <code>Rust</code>
+  <code>Ruby</code>
+  <code>Solidity</code>
+  <code>JavaScript</code>
+</p>
 
-`C` `C++` `Python` `Java` `Rust` `Ruby` `Solidity` `JavaScript`
+### Blockchain & Web3
 
-**Blockchain & Web3**
+<p>
+  <code>Ethereum</code>
+  <code>EVM</code>
+  <code>Hyperledger Fabric</code>
+  <code>Smart Contracts</code>
+  <code>Tokenomics</code>
+  <code>Cryptocurrency Systems</code>
+</p>
 
-`Ethereum`
-`EVM`
-`Hyperledger Fabric`
-`Smart Contracts`
-`Tokenomics`
-`Cryptocurrency Systems`
+### Infrastructure & Security
 
-**Infrastructure & Security**
+<p>
+  <code>Linux</code>
+  <code>Docker</code>
+  <code>Git</code>
+  <code>Cloud Security</code>
+  <code>Secure DevOps</code>
+</p>
 
-`Linux`
-`Docker`
-`Git`
-`Cloud Security`
-`Secure DevOps`
+---
 
-**Backend & Databases**
+## 🔬 Currently Exploring
 
-`Node.js`
-`React`
-`MongoDB`
-`MySQL`
-`SQLite`
+* Consensus Mechanisms
+* Blockchain Scalability
+* Advanced Token Economies
+* Secure Protocol Design
 
-### Currently Exploring
+---
 
-* Blockchain scalability
-* Consensus design
-* Advanced token economies
-* Decentralized infrastructure
-* Secure protocol architecture
+<div align="center">
 
-> Build the protocol. Secure the network. Power the digital economy.
+### ⚡ Build the Protocol • Secure the Network • Power the Digital Economy
 
-```
-```
+</div>
